@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-Facet Wealth is a personal finance and wealth management company founded by Ander jones (CEO), Patrick Mckenna (Executive Chairman) and Brent Weiss (Chief Evangelist) in 2016. Facet Wealth headquarters are located in the Greater Baltimore-Maryland Area. The company's foundation was inspired by their founders need to help people acheive financial wellness and get access to financial advice. Ever since its been created, according to crunchbase Facet Wealth has raised approximately $58 million over 3 funding rounds. 
+Facet Wealth is a personal finance company founded by Ander jones (CEO), Patrick Mckenna (Executive Chairman) and Brent Weiss (Chief Evangelist) in 2016. Facet Wealth headquarters are located in the Greater Baltimore-Maryland Area. The company's foundation was inspired by their founders need to help people acheive financial wellness and get access to financial advice. Ever since its been created, according to crunchbase Facet Wealth has raised approximately $58 million over 3 funding rounds. 
 
 During their seed funding on May 1, 2017 they recived funds from 2 investors. Eventhough the amount of money raised was not disclosed on crunch base, information regarding the investors were. Rannapo partners a private investment and advisory firm who focuses on investing in early stage companies accross a broad range of industries and geographies by providing strategic insight, operating capability and investment capital.And Coelius capital another inveestment company that generally invest in business to business or business to business to customer companies. They also provided entrepreneurial early stage capital for technology startups companies like cruise, branch and clubhouse.
 
@@ -13,9 +13,11 @@ More over, during their Series B third round of funding, Facet Wealth raised up 
 
 ## Business Activities
 
-Facet Wealth is in the domain of  Fintech, personal finance and wealth management. Their main purpose is to make personal finance less complicated, provide solutions to people's financial dilemma while educating them. With a revenue of $50.4 million per year and 240 employees, Fect Wealth's services are not limited to a specific customer base as it strives for diversity, equity, inclusion and giving back to every memeber of its community. 
+Facet Wealth is in the domain of  personal finance. Their main purpose is to make personal finance less complicated, provide solutions to people's financial dilemma while educating them. With a revenue of $50.4 million per year and 240 employees, Fect Wealth's services are not limited to a specific customer base as it strives for diversity, equity, inclusion and giving back to every memeber of its community. 
 
 
 ## Landscape
 
-
+As Wealth Facet's work focuses on personal finance, a number of major trends and innovation has occured over the last 5-10 years. Affecting its performance and revenue as well as its competitors Servicebot, Nayax. The trends and innovations that have been affecting the domain of personal finance are 
+* The rise of robotics and artificial integelligence. From the use of chatbots and providing round-the-clock agile customer service, utilizing techology against anti-fraud and regulatory compliances. Financial firms had to realize how critical technolgy is important for the critical function of a company. 
+* Hyper-personlization as generation z becomes a mainstream customer which expects to be treated as individuals and not segments.
