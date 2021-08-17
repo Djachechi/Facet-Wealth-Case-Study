@@ -1,5 +1,4 @@
 # [Facet-Wealth-Case-Study](https://www.finder.com/niche-builder/5ccc5a5813449.png)
-
 ## Overview and Origin
 
 Facet Wealth is a personal finance company founded by Ander jones (CEO), Patrick Mckenna (Executive Chairman) and Brent Weiss (Chief Evangelist) in 2016. Facet Wealth headquarters are located in the Greater Baltimore-Maryland Area. The company's foundation was inspired by their founders need to help people acheive financial wellness and get access to financial advice. Ever since its been created, according to crunchbase Facet Wealth has raised approximately $58 million over 3 funding rounds. 
@@ -13,7 +12,7 @@ More over, during their Series B third round of funding, Facet Wealth raised up 
 
 ## Business Activities
 
-Facet Wealth is in the domain of  personal finance and Fintech. Their main purpose is to make personal finance less complicated, provide solutions to people's financial dilemma while educating them. With a revenue of $50.4 million per year and 240 employees, Fect Wealth's services are not limited to a specific customer base as it strives for diversity, equity, inclusion and giving back to every member of its community. Using technologies such as clout services form Amazon Web Services (AWS) to store data from clients and to ensure their information is safe andviewed by the right people.
+Facet Wealth is in the domain of  personal finance. Their main purpose is to make personal finance less complicated, provide solutions to people's financial dilemma while educating them. With a revenue of $50.4 million per year and 240 employees, Fect Wealth's services are not limited to a specific customer base as it strives for diversity, equity, inclusion and giving back to every member of its community. Using technologies such as clout services form Amazon Web Services (AWS) to store data from clients and to ensure their information is safe andviewed by the right people.
 
 
 ## Landscape
